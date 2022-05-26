@@ -1,5 +1,4 @@
 import random
-from sys import argv
 
 user_score = 0
 op_score = 0
